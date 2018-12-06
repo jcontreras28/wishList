@@ -1,0 +1,11 @@
+# keys
+client/src/components/Firebase/keys.json
+
+# Node.js files
+node_modules
+
+# OS generated files
+.DS_Store
+
+# VSCode Files
+.vscode
